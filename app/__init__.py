@@ -1,0 +1,1 @@
+# Wallery-Qt application package

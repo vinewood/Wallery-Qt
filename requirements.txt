@@ -1,0 +1,6 @@
+# Wallery-Qt runtime dependencies
+# Pinned to the versions used during development.
+PySide6==6.11.1
+PySide6-Fluent-Widgets==1.11.2
+requests==2.34.2
+pyinstaller==6.21.0
